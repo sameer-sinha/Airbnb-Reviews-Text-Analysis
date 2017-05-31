@@ -5,7 +5,7 @@ Text analysis of user reviews for AirBnB listings in Bronx and Staten Island. Co
 shiny::runGitHub("Airbnb-Reviews-Text-Analysis", "sameer-sinha")
 
 # Screenshot
-<img width="1158" alt="screenshot" src="https://cloud.githubusercontent.com/assets/23367652/25776161/f441be02-3284-11e7-97dc-8ad281e3a3d2.png">
+<img width="1158" alt="screenshot" src="https://cloud.githubusercontent.com/assets/23367652/26611123/07ceb346-457a-11e7-9830-25ed24288ed3.png">
 
 
 # Data Details
